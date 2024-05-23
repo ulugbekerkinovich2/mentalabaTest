@@ -1,0 +1,30 @@
+[
+    {
+        "subject_id":1,
+        "subject": "Matematika"
+    },
+    {
+        "subject_id": 2,
+        "subject": "Fizika"
+    },
+    {
+        "subject_id": 3,
+        "subject": "Tarix"
+    },
+    {
+        "subject_id": 4,
+        "subject": "Ona tili"
+    },
+    {
+        "subject_id": 5,
+        "subject": "Biologiya"
+    },
+    {
+        "subject_id": 6,
+        "subject": "Kimyo"
+    },
+    {
+        "subject_id": 7,
+        "subject": "Ingliz tili"
+    }
+]
